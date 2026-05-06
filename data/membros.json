@@ -1,0 +1,30 @@
+[
+  {
+    "nome": "Ana Pereira",
+    "empresa": "Alpha Consultoria",
+    "categoria": "Finanças > Consultoria",
+    "telefone": "(11) 90000-1234",
+    "email": "ana.pereira@exemplo.com"
+  },
+  {
+    "nome": "Bruno Costa",
+    "empresa": "TechNova Soluções",
+    "categoria": "Tecnologia > Desenvolvimento de Sistemas",
+    "telefone": "(21) 91111-4321",
+    "email": "bruno.costa@exemplo.com"
+  },
+  {
+    "nome": "Carla Menezes",
+    "empresa": "Vértice Marketing",
+    "categoria": "Publicidade & Marketing > Marketing Digital",
+    "telefone": "(31) 92222-5678",
+    "email": "carla.menezes@exemplo.com"
+  },
+  {
+    "nome": "João Martins",
+    "empresa": "Brasil Restaurante",
+    "categoria": "Alimentação > Restaurante",
+    "telefone": "(11) 92536-3529",
+    "email": "joao.martins@exemplo.com"
+  }
+]
